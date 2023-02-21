@@ -1,5 +1,5 @@
 👋 
-Hi, I’m @MereMer. Or you can call me Fenix :)
+Hi, I’m @Haomin Jiang :)
 
 👀 
 I'm a person who likes the new more than the old. I love change, but I'm also very sensitive to details and regularities. I like capturing new things, innovation and value are my biggest drivers. I am able to think independently, in the meantime, I can communicate with a wide variety of people.
