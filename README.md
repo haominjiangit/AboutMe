@@ -11,7 +11,7 @@ My major is Applied Business Analytics, which is an interdisciplinary program. I
 I learned the importance of how to deliver high-quality work through teamwork during my valuable internship experiences. And they also made me realize the crucial role data plays in every industry. Later, I worked on various projects with totally different targets. And during that time I found that I really enjoyed the process of brainstorming and reaching milestones with my partners. Next, I would like to continue my career exploration in IT and Business. Currently, I'm looking for my first full-time job as a New Graduate, hope I can make it!
 
 📫 
-I love connecting with new people, give me a shout at haominj187@gmail.com or here on Github!
+I love connecting with new people, give me a shout at haominj@outlook.com or here on Github!
 
 - Kaggle: https://www.kaggle.com/haominjiang
 - Datacamp: https://app.datacamp.com/profile/HaominJiang
