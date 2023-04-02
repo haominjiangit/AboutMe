@@ -13,9 +13,10 @@ I learned the importance of how to deliver high-quality work through teamwork du
 📫 
 I love connecting with new people, give me a shout at haominj@outlook.com or here on Github!
 
+- LinkedIn: https://www.linkedin.com/in/haominjiang
 - Kaggle: https://www.kaggle.com/haominjiang
 - Datacamp: https://app.datacamp.com/profile/HaominJiang
-- LinkedIn: https://www.linkedin.com/in/haominjiang
+- Tableau：https://public.tableau.com/app/profile/haominjiang
 
 🧰
 If you're interested in the details of projects I've done previously, check out the Repository called "Career-Portfolio".
